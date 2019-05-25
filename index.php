@@ -134,6 +134,8 @@
             '/registration',
             '/checkemail',
             '/auth',
+           '/proposal',
+           '/contacts'
 
          ], 
         'authenticator' => $authenticator
